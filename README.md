@@ -38,5 +38,5 @@ year={2021},
 }
 ```
 
-# Contect
+# Contact
 Hung-Ting Su, htsu@cmlab.csie.ntu.edu.tw
