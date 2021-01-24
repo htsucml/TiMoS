@@ -12,9 +12,7 @@ Chen-Hsi Chang*, Hung-Ting Su*, Juiheng Hsu, Yu-Siang Wang, Yu-Cheng Chang, Zhe 
 
 A [trope](https://tvtropes.org/pmwiki/pmwiki.php/Main/Trope) is a storytelling device, or a shortcut, frequently used in creative productions such as novels, TV series and movies to describe situations that storytellers can reasonably assume the audience will recognize. Beyond actions, events, and activities, they are the tools that the art creators use toexpress ideas to the audience without needing to spell out all the details.
 
-For example, [Heroic Sacrifice](https://tvtropes.org/pmwiki/pmwiki.php/Main/HeroicSacrifice) is when *a character saves another/others from harm and is killed, crippled, or maimed as a result.*
-
-[Asshole Victim](https://tvtropes.org/pmwiki/pmwiki.php/Main/AssholeVictim) is normally when something bad happens to an individual you feel some degree of pity for them. 
+For example, [Heroic Sacrifice](https://tvtropes.org/pmwiki/pmwiki.php/Main/HeroicSacrifice) is when *a character saves another/others from harm and is killed, crippled, or maimed as a result.* [Asshole Victim](https://tvtropes.org/pmwiki/pmwiki.php/Main/AssholeVictim) is *normally when something bad happens to an individual you feel some degree of pity for them.*
 
 # Trope detection
 
