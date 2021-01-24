@@ -23,6 +23,12 @@ The trope detection task is formulated as a multi-label classification problem. 
 
 The TiMoS dataset contains (1) 5623 movie synopses, (2) 95 tropes along with their definitions and human labeled categories, and (3) trope appearances in each film. The movie synopses are collected from the [MPST](https://www.aclweb.org/anthology/L18-1274.pdf) dataset and the trope appearances are obtained from [TVTropes](https://tvtropes.org).
 
+Tropes: You could see tropes, categories and brief description in data/tropes.csv
+
+Movie synopses: You could download them from https://drive.google.com/file/d/1wWFwNcIQKpvPzpbAxsHgCy1xrBAA7I0G/view?usp=sharing
+
+Trope appearances: See train.json, val.json and test.json in data/.
+
 # Training
 
 
