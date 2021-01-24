@@ -12,6 +12,10 @@ Chen-Hsi Chang*, Hung-Ting Su*, Juiheng Hsu, Yu-Siang Wang, Yu-Cheng Chang, Zhe 
 
 A [trope](https://tvtropes.org/pmwiki/pmwiki.php/Main/Trope) is a storytelling device, or a shortcut, frequently used in creative productions such as novels, TV series and movies to describe situations that storytellers can reasonably assume the audience will recognize. Beyond actions, events, and activities, they are the tools that the art creators use toexpress ideas to the audience without needing to spell out all the details.
 
+For example, [Heroic Sacrifice](https://tvtropes.org/pmwiki/pmwiki.php/Main/HeroicSacrifice) is when *a character saves another/others from harm and is killed, crippled, or maimed as a result.*
+
+[Asshole Victim] (https://tvtropes.org/pmwiki/pmwiki.php/Main/AssholeVictim) is normally when something bad happens to an individual you feel some degree of pity for them. 
+
 # Trope detection
 
 The trope detection task is formulated as a multi-label classification problem. Given a film, the model is asked to predict the tropes’ appearance in the film. More specifically, the input instance is a film synopsis, and the output is a binary vector with size |𝑇|, where 𝑇 = {𝑡1, 𝑡2, ...} denotes the set of all the tropes.
