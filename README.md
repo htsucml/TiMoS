@@ -25,7 +25,7 @@ The TiMoS dataset contains (1) 5623 movie synopses, (2) 95 tropes along with the
 
 Tropes: You could see tropes, categories and brief description in data/tropes.csv
 
-Movie synopses: You could download them from https://drive.google.com/file/d/1wWFwNcIQKpvPzpbAxsHgCy1xrBAA7I0G/view?usp=sharing
+Movie synopses: https://drive.google.com/file/d/1wWFwNcIQKpvPzpbAxsHgCy1xrBAA7I0G/view?usp=sharing
 
 Trope appearances: See train.json, val.json and test.json in data/.
 
@@ -37,12 +37,11 @@ Trope appearances: See train.json, val.json and test.json in data/.
 
 # Citation
 ```
-@inproceedings{
-chang2021timos,
-title={Situation and Behavior Understanding by Trope Detection on Films},
-author={Chen-Hsi Chang and Hung-Ting Su and Juiheng Hsu and Yu-Siang Wang and Yu-Cheng Chang and Zhe Yu Liu and Ya-Liang Chang and Wen-Feng Cheng and Ke-Jyun Wang and Winston H. Hsu},
-booktitle={WWW},
-year={2021},
+@inproceedings{chang2021timos,
+  title={Situation and Behavior Understanding by Trope Detection on Films},
+  author={Chen-Hsi Chang and Hung-Ting Su and Juiheng Hsu and Yu-Siang Wang and Yu-Cheng Chang and Zhe Yu Liu and Ya-Liang Chang and Wen-Feng Cheng and Ke-Jyun Wang  and Winston H. Hsu},
+  booktitle={WWW},
+  year={2021},
 }
 ```
 
