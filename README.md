@@ -14,7 +14,7 @@ A [trope](https://tvtropes.org/pmwiki/pmwiki.php/Main/Trope) is a storytelling d
 
 For example, [Heroic Sacrifice](https://tvtropes.org/pmwiki/pmwiki.php/Main/HeroicSacrifice) is when *a character saves another/others from harm and is killed, crippled, or maimed as a result.*
 
-[Asshole Victim] (https://tvtropes.org/pmwiki/pmwiki.php/Main/AssholeVictim) is normally when something bad happens to an individual you feel some degree of pity for them. 
+[Asshole Victim](https://tvtropes.org/pmwiki/pmwiki.php/Main/AssholeVictim) is normally when something bad happens to an individual you feel some degree of pity for them. 
 
 # Trope detection
 
