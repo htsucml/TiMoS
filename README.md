@@ -25,7 +25,7 @@ The TiMoS dataset contains (1) 5623 movie synopses, (2) 95 tropes along with the
 
 Tropes: You could see tropes, categories and brief description in data/tropes.csv
 
-Movie synopses: https://drive.google.com/file/d/1wWFwNcIQKpvPzpbAxsHgCy1xrBAA7I0G/view?usp=sharing
+Movie synopses: We leverage synopses from [MPST dataset](https://ritual.uh.edu/mpst-2018/), which was collected from IMDb database. You could download our post-processed synopses from: https://drive.google.com/file/d/1wWFwNcIQKpvPzpbAxsHgCy1xrBAA7I0G/view?usp=sharing
 
 Trope appearances: See train.json, val.json and test.json in data/.
 
@@ -47,3 +47,6 @@ Trope appearances: See train.json, val.json and test.json in data/.
 
 # Contact
 Hung-Ting Su, htsu@cmlab.csie.ntu.edu.tw
+
+# Acknowledgement
+This work was supported in part by the Ministry of Science and Technology, Taiwan, under Grant MOST 109-2634-F-002-032. We benefit from NVIDIA DGX-1 AI Supercomputer and are grateful to the National Center for High-performance Computing. We also thank Dr. John R. Smith, IBM T. J. Watson Research Center, New York, for his sharing in film tropes.
